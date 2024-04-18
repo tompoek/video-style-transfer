@@ -7,3 +7,6 @@
 
 ### Quick Start
 - See `video-style-transfer.ipynb`
+
+### Demo video
+https://youtu.be/vDjDRx1PTNo
